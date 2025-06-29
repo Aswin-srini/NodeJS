@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.movie-container {
+  display: flex;
+  max-width: 1000px;
+  margin: auto;
+  gap: 30px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.movie-poster img {
+  max-width: 300px;
+  border-radius: 12px;
+  border: 1px solid #ccc;
+}
+
+.movie-details {
+  flex: 1;
+}
+
+.movie-title {
+  font-size: 32px;
+  color: #222;
+  margin-bottom: 15px;
+}
+
+.movie-description {
+  font-size: 16px;
+  margin-bottom: 20px;
+  line-height: 1.6;
+  color: #555;
+}
+
+.movie-section {
+  margin-bottom: 20px;
+}
+
+.movie-section h2 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: #0077cc;
+}
+
+.movie-section ul {
+  padding-left: 20px;
+}
+
+.movie-section ul li {
+  margin-bottom: 6px;
+}
+
+
+    </style>
+</head>
+<body>
+  <div class="movie-container">
+    <div class="movie-poster">
+      <img src="{{%IMAGE%}}" alt="Movie Poster">
+    </div>
+    <div class="movie-details">
+      <h1 class="movie-title">{{%NAME%}}</h1>
+      <p class="movie-description">{{%DESC%}}</p>
+      <div class="movie-section">
+        <h2>Cast</h2>
+        <ul>
+          <li>{{%ACT1%}} as Character A</li>
+          <li>{{%ACT2%}} as Character B</li>
+          <li>{{%ACT3%}} as Character C</li>
+        </ul>
+      </div>
+      <div class="movie-section">
+        <h2>Crew</h2>
+        <ul>
+          <li>Director: {{%DIRECTOR%}}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

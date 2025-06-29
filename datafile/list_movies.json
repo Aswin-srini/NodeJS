@@ -1,0 +1,158 @@
+[
+    {
+      "id": 1,
+      "name": "Following",
+      "description": "A young writer who follows strangers for material meets a thief who takes him under his wing.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Jeremy Theobald", "Alex Haw", "Lucy Russell"],
+        "writers": ["Christopher Nolan"]
+      },
+      "rating": 7.5,
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.ofBG6ACXHUZulM_KixKvHwHaEK?rs=1&pid=ImgDetMain",
+      "post_url" : "https://www.stardust.it/uploads/img/movie/poster/6c2bf475a0837cda970f1c3cc1c1be271552087417-1000w.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Memento",
+      "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Guy Pearce", "Carrie-Anne Moss", "Joe Pantoliano"],
+        "writers": ["Christopher Nolan", "Jonathan Nolan"]
+      },
+      "rating": 8.4,
+      "image_url": "https://i5.walmartimages.com/seo/Onimhouse-Poster-Memento-Movie-Poster-Christopher-Nolan-Wall-Art-Minimalist-Film-Art-Print-Unique-Psychological-Thriller-Wall-Decor-UNFRAMED_3431ab5d-e366-44e6-9ed1-8d515530a98b.5a3bf2d58666f68cb5ffbdafb8c2a0e9.jpeg",
+      "post_url" : "https://posterspy.com/wp-content/uploads/2021/01/memento2020-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Insomnia",
+      "description": "Two detectives are sent to a small town in Alaska to investigate a teenage girl's murder.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Al Pacino", "Robin Williams", "Hilary Swank"],
+        "writers": ["Hillary Seitz"]
+      },
+      "rating": 7.2,
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.xYmt4Ts-39U1W7OBp8-42gHaEK?rs=1&pid=ImgDetMain",
+      "post_url" : "https://tse1.mm.bing.net/th/id/OIP.-JGb0g72uy0dJQ9qmpNLewHaKh?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 4,
+      "name": "Batman Begins",
+      "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Christian Bale", "Michael Caine", "Liam Neeson"],
+        "writers": ["Christopher Nolan", "David S. Goyer"]
+      },
+      "rating": 8.2,
+      "image_url": "https://cps-static.rovicorp.com/2/Open/TMDB4_2462/Program/4890999/_derived_jpg_q90_584x800_m0/Batman%20Begins_H.jpg",
+      "post_url" : "https://wallpapercave.com/wp/wp2861609.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Prestige",
+      "description": "Two rival magicians compete to create the ultimate illusion while sacrificing everything they have.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Hugh Jackman", "Christian Bale", "Scarlett Johansson"],
+        "writers": ["Jonathan Nolan", "Christopher Nolan"]
+      },
+      "rating": 8.5,
+      "image_url": "https://www.themoviedb.org/t/p/w1000_and_h563_face/8qNI1E7jprDtCVoWKhXFagrP6ox.jpg",
+      "post_url" : "https://alternativemovieposters.com/wp-content/uploads/2019/05/alberto_prestige-450x675.jpg"
+    },
+    {
+      "id": 6,
+      "name": "The Dark Knight",
+      "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "writers": ["Jonathan Nolan", "Christopher Nolan", "David S. Goyer"]
+      },
+      "rating": 9.0,
+      "image_url": "https://wallpapercave.com/wp/gN2b85P.jpg",
+      "post_url" : "https://www.themoviedb.org/t/p/original/h2Q0Bjzb4rOulc0ekz6mH1FFaoI.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Inception",
+      "description": "A thief who enters the dreams of others must plant an idea in a target's mind to have a chance at redemption.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "writers": ["Christopher Nolan"]
+      },
+      "rating": 8.8,
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc78764-b1e4-41eb-b905-7005b3195fb8/d3fj8bn-6fb59955-57e6-4e5e-86f6-8685ca318f8d.png/v1/fill/w_1095,h_730,q_70,strp/inception_poster_by_emodjsteph_d3fj8bn-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzFjYzc4NzY0LWIxZTQtNDFlYi1iOTA1LTcwMDViMzE5NWZiOFwvZDNmajhibi02ZmI1OTk1NS01N2U2LTRlNWUtODZmNi04Njg1Y2EzMThmOGQucG5nIiwid2lkdGgiOiI8PTE4MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.XVj2rpNtyl0yCk5GTDQLidRJE395p_9S7K-7Auoarw0",
+      "post_url" : "https://th.bing.com/th/id/R.be7248985232d46128041023c99fad7d?rik=m%2fYm13OWgvgEMQ&riu=http%3a%2f%2fwww.nolanfans.com%2fimages%2fposters%2finception%2fp4xfull.jpg&ehk=fTBnrxgKiU4dJQxZMWXrFmdjr5dpguBG6osjjkLxxPA%3d&risl=1&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 8,
+      "name": "The Dark Knight Rises",
+      "description": "Batman returns to face a new threat, Bane, eight years after taking the fall for Harvey Dent.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Christian Bale", "Tom Hardy", "Anne Hathaway"],
+        "writers": ["Jonathan Nolan", "Christopher Nolan", "David S. Goyer"]
+      },
+      "rating": 8.4,
+      "image_url": "https://wallpapercave.com/wp/PgHrZZm.jpg",
+      "post_url" : "https://www.themoviedb.org/t/p/original/70fWwkCYjsHPhPRUF9OydhbEkVC.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Interstellar",
+      "description": "A team of explorers travels through a wormhole in search of a new home for humanity.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+        "writers": ["Jonathan Nolan", "Christopher Nolan"]
+      },
+      "rating": 8.7,
+      "image_url": "https://wallpapers.com/images/hd/monochrome-blast-interstellar-poster-kxjdkmsfvtbjoutx.jpg",
+      "post_url" : "https://i.pinimg.com/originals/8e/0d/ab/8e0dab8699be85720ce55845065bf6dc.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Dunkirk",
+      "description": "Allied soldiers are evacuated from the beaches of Dunkirk during WWII while under enemy fire.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Fionn Whitehead", "Tom Hardy", "Mark Rylance"],
+        "writers": ["Christopher Nolan"]
+      },
+      "rating": 7.8,
+      "image_url": "https://wallpaperaccess.com/full/1301019.jpg",
+      "post_url" : "https://image.tmdb.org/t/p/original/zx87sFGLXZdrSF4B9WPhwjaKuQP.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Tenet",
+      "description": "A secret agent must manipulate time to prevent global catastrophe.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["John David Washington", "Robert Pattinson", "Elizabeth Debicki"],
+        "writers": ["Christopher Nolan"]
+      },
+      "rating": 7.3,
+      "image_url": "https://ntvb.tmsimg.com/assets/p17758177_v_h8_ad.jpg?w=960&h=540",
+      "post_url" : "https://www.themoviedb.org/t/p/original/ba6WSxKmNzfeK1XnfrNDYfU3rJN.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Oppenheimer",
+      "description": "The story of J. Robert Oppenheimer and his role in developing the atomic bomb.",
+      "cast_and_crew": {
+        "director": "Christopher Nolan",
+        "cast": ["Cillian Murphy", "Emily Blunt", "Robert Downey Jr."],
+        "writers": ["Christopher Nolan"]
+      },
+      "rating": 8.5,
+      "image_url": "https://images.hungama.com/c/1/8e0/213/106082570/106082570_1280x800.jpg",
+      "post_url" : "https://www.themoviedb.org/t/p/original/9Tm2xz8yssRsC9DOW1jCu0IkUsw.jpg"
+    }
+]
